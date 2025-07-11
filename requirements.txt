@@ -6,3 +6,4 @@ ipykernel
 xlrd
 scikit-learn
 statsmodels
+nltk
